@@ -1,15 +1,19 @@
 # Electronic
 
 # run command
-'python3 resistance_calculate.py'
+`python3 resistance_calculate.py`
 
 ---
 
 ## FULL GIF
 
+
+
 ![program](assets/full_gif.gif)
 
 ## HOME PAGE Screenshot
+
+
 
 ![screenshot](assets/home_page.png)
 
@@ -20,6 +24,8 @@
 ## 🎨 Resistor Colour Code Calculator
 
 > Decode 4-band, 5-band, and 6-band resistor colour codes into resistance values.
+
+
 
 ![screenshot](assets/colour_code_page.png)
 
@@ -32,6 +38,8 @@
 
 > Converts EIA-96 resistor codes into accurate resistance values.
 
+
+
 ![screenshot](assets/smd_eia_page.png)
 
 
@@ -42,6 +50,8 @@
 ## ⚡ Parallel Resistor Calculation
 
 > Computes equivalent resistance for parallel resistor networks.
+
+
 
 ![screenshot](assets/parallel_series_page.png)
 
