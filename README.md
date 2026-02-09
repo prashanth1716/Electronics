@@ -1,4 +1,7 @@
-# Electronic
+![header](https://capsule-render.vercel.app/api?type=soft&height=300&text=Electronics%20Calculation&fontColor=3449eb&fontSize=60)
+
+![python](https://img.shields.io/badge/python-1.5%2B-green)
+![requirement](https://img.shields.io/badge/requirements-non-blue)
 
 # run command
 `python3 resistance_calculate.py`
